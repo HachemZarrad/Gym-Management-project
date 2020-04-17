@@ -1,0 +1,5 @@
+dhia1 dhia1 1 2 4 2021 homme 123 123 70 obesite_morbide 3 45787
+dhia2 dhia2 12 2 3 2020 femme 124 45 455 obesite_severe 3 45787
+dhia3 dhia3 123 2 4 2021 homme 123 123 70 obesite_morbide 3 45787
+dhia4 dhia4 1234 2 3 2020 femme 124 45 455 obesite_severe 3 45787
+dhia5 dhia5 12345 2 3 2020 femme 124 45 455 obesite_severe 3 45787
